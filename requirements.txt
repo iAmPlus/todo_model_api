@@ -1,0 +1,18 @@
+# Maintain this file in sorted order.
+pyyaml==3.13
+gensim==3.5.0
+h5py==2.7.1
+numpy==1.19.5
+pyfastcopy
+tensorflow==2.1.0
+Pympler==0.6
+uWSGI==2.0.18
+gevent==1.4.0
+pandas==0.24.1
+Keras==2.3.1
+-e git+https://www.github.com/keras-team/keras-contrib.git#egg=keras-contrib
+nltk
+spacy
+gunicorn
+flask
+attrs
